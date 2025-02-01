@@ -18,7 +18,7 @@ This repository contains a Python-based desktop application that allows users to
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/image-watermarking-app.git
+   git clone https://github.com/datnaijakid/image-watermarking-app.git
    cd image-watermarking-app
    ```
 
